@@ -1,0 +1,7 @@
+query Memes {
+  memes {
+    title
+    image_url
+    description
+  }
+}
